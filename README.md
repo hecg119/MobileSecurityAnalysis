@@ -30,3 +30,10 @@ It is possible to select what data will be exported by uncommenting lines in [An
 
 To execute the script, run [Analysis/main.py](Analysis/main.py).
 
+## Results
+This folder contains list of domains specific to Android, iOS, and particular Android device brands.
+
+
+* [Results/OSSpecificDomains.xlsx](Results/OSSpecificDomains.xlsx) - domains specific to Android and iOS
+* [Results/BrandSpecificDomains.md](Results/BrandSpecificDomains.md) - domains specific to Android brands
+
